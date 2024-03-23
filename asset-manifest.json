@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/weather-app-anya/static/css/main.87c69678.css",
+    "main.js": "/weather-app-anya/static/js/main.36776af2.js",
+    "static/js/453.9cb45f4c.chunk.js": "/weather-app-anya/static/js/453.9cb45f4c.chunk.js",
+    "index.html": "/weather-app-anya/index.html",
+    "main.87c69678.css.map": "/weather-app-anya/static/css/main.87c69678.css.map",
+    "main.36776af2.js.map": "/weather-app-anya/static/js/main.36776af2.js.map",
+    "453.9cb45f4c.chunk.js.map": "/weather-app-anya/static/js/453.9cb45f4c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87c69678.css",
+    "static/js/main.36776af2.js"
+  ]
+}
